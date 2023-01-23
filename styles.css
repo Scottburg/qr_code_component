@@ -13,7 +13,7 @@
 
 body {
   font-family: 'Outfit', sans-serif;
-  font-size: 0.9375rem; /* same as 15px
+  font-size: 0.9375rem;
   background-color: var(--light-gray);
   color: var(--dark-blue);
   display: flex;
